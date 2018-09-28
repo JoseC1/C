@@ -1,0 +1,14 @@
+Purpose of this project is to practice if statements and loops in assembly and in c
+
+I want to get input from the user using the c program and testing the input in there with if statements 
+
+THen I want to actually calculate the loop they want with my assembly program to optimize its performence 
+
+
+A Even more optimal way would be if I Remove the conditional branching And not use if statements in my C program 
+But instead use the set flags to determine if they entered valid data 
+
+
+
+
+
